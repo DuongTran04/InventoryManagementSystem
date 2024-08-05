@@ -32,6 +32,7 @@ public class Main {
 
         // Display the inventory after removal
         System.out.println(inventory);
+        System.out.println("Hello old project ");
     }
 }
 
